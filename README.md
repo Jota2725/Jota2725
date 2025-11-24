@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00cfff&background=00000000&center=true&vCenter=true&width=435&lines=Hola!+Soy+Julian+Tirado;Desarrollador+Flutter+%26+Dart;Aprendiendo+Supabase;Backend+Integration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00cfff&background=00000000&center=true&vCenter=true&width=435&lines=Hola!+Soy+Julian+Tirado;Desarrollador+Flutter+%26+Dart;Supabase;Backend+Integration" alt="Typing SVG" />
 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
