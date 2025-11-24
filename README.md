@@ -4,7 +4,7 @@
 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-  <h2 align="center">Desarrollador Mobile Junior 🚀</h2>
+  <h2 align="center">Desarrollador Mobile 🚀</h2>
 
   <a href="www.linkedin.com/in/julian-tirado" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
