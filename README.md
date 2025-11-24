@@ -24,7 +24,7 @@
 
 - 📱 Soy un apasionado desarrollador centrado en el ecosistema **Mobile**.
 - 💙 Actualmente profundizando en **Flutter & Dart**.
-- ⚡ Aprendiendo a construir backends robustos y escalables con **Supabase**.
+- ⚡ Construyo backends robustos y escalables con **Supabase**.
 - 🇨🇴 Vivo en **Colombia** y busco crear impacto a través del código.
 - 🔭 **Proyecto actual:** Un cliente de películas TMDB con arquitectura limpia y Riverpod.
 
@@ -36,13 +36,14 @@
 
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/FlutterFlow-086BE9?style=for-the-badge&logo=flutter&logoColor=white" alt="FlutterFlow" />
   
   
   <br/>
 
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity" />
+  <img src="https://img.shields.io/badge/Google%20Antigravity-603F83?style=for-the-badge" alt="Google Antigravity" />
 
 </div>
 
