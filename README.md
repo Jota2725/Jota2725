@@ -6,13 +6,13 @@
 
   <h2 align="center">Desarrollador Mobile Junior 🚀</h2>
 
-  <a href="[www.linkedin.com/in/julian-tirado]" target="_blank">
+  <a href="www.linkedin.com/in/julian-tirado" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="mailto:[juliantirado71@gmail.com]" target="_blank">
+  <a href="mailto:juliantirado71@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/[Jota2725]" target="_blank">
+  <a href="https://github.com/Jota2725" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
   </a>
 
@@ -52,19 +52,19 @@
 
 <div align="center">
 
-<a href="https://github.com/[Jota2725]">
+<a href="https://github.com/Jota2725">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[Jota2725]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 </a>
 
-<a href="https://github.com/[Jota2725]">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Jota2725]&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/Jota2725">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jota2725&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
 
 <div align="center">
   <br>
-  <img src="https://media.giphy.com/media/L1R1TVTh2uKI6GLbre/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" width="200" />
   <br>
   <i>"El código es como el humor. Si tienes que explicarlo, es malo."</i>
 </div>
